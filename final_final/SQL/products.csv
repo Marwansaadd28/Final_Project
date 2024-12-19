@@ -1,0 +1,101 @@
+product_id,product_name,category,supplier
+1,"Home Appliances_1",Books,ToyLand
+2,Clothing_2,Toys,FashionHub
+3,Electronics_3,Books,BookWorm
+4,Toys_4,Clothing,HomeEssentials
+5,Books_5,"Home Appliances",BookWorm
+6,Electronics_6,Clothing,HomeEssentials
+7,Books_7,"Home Appliances",FashionHub
+8,Toys_8,Books,HomeEssentials
+9,Books_9,Books,TechWorld
+10,Books_10,Books,FashionHub
+11,Electronics_11,Electronics,BookWorm
+12,Electronics_12,Books,HomeEssentials
+13,Electronics_13,Books,FashionHub
+14,Toys_14,Toys,BookWorm
+15,Books_15,Books,ToyLand
+16,"Home Appliances_16",Clothing,HomeEssentials
+17,Toys_17,Books,TechWorld
+18,Books_18,Clothing,TechWorld
+19,"Home Appliances_19",Electronics,HomeEssentials
+20,Toys_20,Electronics,FashionHub
+21,"Home Appliances_21",Electronics,TechWorld
+22,Toys_22,Toys,ToyLand
+23,"Home Appliances_23","Home Appliances",BookWorm
+24,Clothing_24,"Home Appliances",ToyLand
+25,Electronics_25,"Home Appliances",HomeEssentials
+26,Clothing_26,Clothing,BookWorm
+27,Books_27,Electronics,ToyLand
+28,Electronics_28,"Home Appliances",BookWorm
+29,Electronics_29,Toys,HomeEssentials
+30,"Home Appliances_30",Books,BookWorm
+31,"Home Appliances_31",Clothing,FashionHub
+32,Toys_32,Clothing,HomeEssentials
+33,Electronics_33,"Home Appliances",HomeEssentials
+34,"Home Appliances_34",Toys,HomeEssentials
+35,Books_35,Toys,BookWorm
+36,Toys_36,Clothing,HomeEssentials
+37,Toys_37,Toys,TechWorld
+38,Toys_38,"Home Appliances",TechWorld
+39,Toys_39,Books,FashionHub
+40,"Home Appliances_40",Clothing,ToyLand
+41,Books_41,Electronics,TechWorld
+42,"Home Appliances_42",Toys,ToyLand
+43,Clothing_43,"Home Appliances",HomeEssentials
+44,"Home Appliances_44",Clothing,BookWorm
+45,Books_45,Clothing,HomeEssentials
+46,Clothing_46,Toys,TechWorld
+47,Toys_47,Clothing,HomeEssentials
+48,"Home Appliances_48",Toys,HomeEssentials
+49,Books_49,Clothing,BookWorm
+50,Electronics_50,Toys,FashionHub
+51,Clothing_51,"Home Appliances",BookWorm
+52,Toys_52,Books,TechWorld
+53,"Home Appliances_53",Toys,TechWorld
+54,Toys_54,Books,TechWorld
+55,"Home Appliances_55",Electronics,TechWorld
+56,Clothing_56,Toys,TechWorld
+57,Clothing_57,Clothing,FashionHub
+58,Clothing_58,Electronics,TechWorld
+59,Toys_59,Toys,BookWorm
+60,Books_60,Toys,ToyLand
+61,Clothing_61,Electronics,ToyLand
+62,Books_62,Toys,BookWorm
+63,Electronics_63,"Home Appliances",ToyLand
+64,"Home Appliances_64",Clothing,HomeEssentials
+65,Clothing_65,Books,ToyLand
+66,Electronics_66,Toys,ToyLand
+67,Toys_67,Books,FashionHub
+68,Clothing_68,Toys,HomeEssentials
+69,Toys_69,Electronics,BookWorm
+70,"Home Appliances_70",Electronics,FashionHub
+71,Electronics_71,Books,BookWorm
+72,"Home Appliances_72",Electronics,ToyLand
+73,"Home Appliances_73",Books,BookWorm
+74,Clothing_74,Electronics,BookWorm
+75,Books_75,Clothing,TechWorld
+76,"Home Appliances_76",Toys,BookWorm
+77,Electronics_77,"Home Appliances",TechWorld
+78,Books_78,Electronics,HomeEssentials
+79,"Home Appliances_79","Home Appliances",BookWorm
+80,Toys_80,Clothing,TechWorld
+81,Clothing_81,"Home Appliances",HomeEssentials
+82,Electronics_82,Clothing,HomeEssentials
+83,Books_83,Books,ToyLand
+84,Books_84,Electronics,BookWorm
+85,Clothing_85,Electronics,BookWorm
+86,Toys_86,Clothing,TechWorld
+87,Electronics_87,Electronics,ToyLand
+88,Toys_88,Electronics,ToyLand
+89,Toys_89,Clothing,FashionHub
+90,"Home Appliances_90","Home Appliances",TechWorld
+91,Toys_91,Clothing,BookWorm
+92,Books_92,Clothing,HomeEssentials
+93,Electronics_93,"Home Appliances",ToyLand
+94,Clothing_94,Electronics,FashionHub
+95,Toys_95,Toys,BookWorm
+96,"Home Appliances_96","Home Appliances",BookWorm
+97,Electronics_97,Toys,TechWorld
+98,Electronics_98,"Home Appliances",TechWorld
+99,Clothing_99,Toys,HomeEssentials
+100,Books_100,Clothing,FashionHub
